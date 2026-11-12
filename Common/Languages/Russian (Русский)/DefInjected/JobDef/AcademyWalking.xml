@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_ReturnOnFoot.label>Возвращение пешком</CP_ReturnOnFoot.label>
+  <CP_ReturnOnFoot.reportString>Перемещаюсь к краю карты, чтобы вернуться домой.</CP_ReturnOnFoot.reportString>
+</LanguageData>

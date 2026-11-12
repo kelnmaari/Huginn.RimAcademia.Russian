@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_ParentQueueHelp>Задача родителей · 1 новое предложение каждые 7 дней / максимум {0} не принятых 
+1 уровень практики 80% · 3 уровня специальной цели 20% · срок обучения после принятия 10 дней 
+ до следующего предложения </CP_ParentQueueHelp>
+  <CP_ChildrenPartyScheduleHelp>Партия проходит один раз в день, не более 4 часов, после окончания завершается нормально.</CP_ChildrenPartyScheduleHelp>
+  <CP_SportsPartyScheduleHelp>После спортивного праздника вечеринка длится 2 часа и завершается сама.</CP_SportsPartyScheduleHelp>
+  <CP_ParentBuyHard>Получен миссия от родителей с уровнем развития 3: {0} баллов</CP_ParentBuyHard>
+  <CP_ParentBuyHelp>Получено случайное предложение задачи уровня 3 для случайного ученика на этой карте, за счёт 1 очка развития основного идеала. Текущее значение {0}. Задача не расходуется, если достигнут лимит хранения или нет доступных задач. Регулярное предложение задачи продолжается.</CP_ParentBuyHelp>
+  <CP_ParentBuyNoOffice>Необходимо администрация академии.</CP_ParentBuyNoOffice>
+  <CP_ParentBuyFull>Задачи по несогласованным родителям заполнены на {0}.</CP_ParentBuyFull>
+  <CP_ParentBuyNeedPoints>Требуется балл {0} по динамике мобильной идеологии.</CP_ParentBuyNeedPoints>
+  <CP_ParentBuyNoGoal>Сейчас нет доступных заданий родителей на 3 звезды. Очки развития не потрачены.</CP_ParentBuyNoGoal>
+  <CP_ParentBuySuccess>За 1 очко развития получено предложение задания родителей на 3 звезды.</CP_ParentBuySuccess>
+</LanguageData>

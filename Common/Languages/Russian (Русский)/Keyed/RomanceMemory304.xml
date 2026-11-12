@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_TripRomanceScenario0>Бани · шоколад</CP_TripRomanceScenario0>
+  <CP_TripRomanceScenario1>Бани · букет цветов</CP_TripRomanceScenario1>
+  <CP_TripRomanceScenario2>Бани · драгоценный камень, найденный в пути</CP_TripRomanceScenario2>
+  <CP_TripRomanceScenario3>Трумбо · Амброзия</CP_TripRomanceScenario3>
+  <CP_TripRomanceScenario4>Трумбо · готовое блюдо, приготовленное самим</CP_TripRomanceScenario4>
+  <CP_TripRomanceScenario5>Трумбо · скрытый пивной напиток</CP_TripRomanceScenario5>
+  <CP_TripRomanceScenario6>Орбита · серебро</CP_TripRomanceScenario6>
+  <CP_TripRomanceScenario7>Орбита · шарф</CP_TripRomanceScenario7>
+  <CP_TripRomanceScenario8>Аурора · метеор и желание</CP_TripRomanceScenario8>
+  <CP_TripRomanceScenario9>Оазис · кокос</CP_TripRomanceScenario9>
+  <CP_TripRomanceScenario10>Оазис · клубника</CP_TripRomanceScenario10>
+  <CP_TripRomanceScenario11>Оасис · неожиданное волнение</CP_TripRomanceScenario11>
+  <CP_TripRomanceRecord>{0} · {1}: Романтика на школьной экскурсии · {2} · {3}</CP_TripRomanceRecord>
+  <CP_TripRomanceUnknown>Любовь школьной экскурсии</CP_TripRomanceUnknown>
+  <CP_TripRomanceOutcome_success>Успех</CP_TripRomanceOutcome_success>
+  <CP_TripRomanceOutcome_failure>Неудача</CP_TripRomanceOutcome_failure>
+  <CP_TripRomanceOutcome_stopped>Остановка</CP_TripRomanceOutcome_stopped>
+  <CP_TripRomanceOutcome_pending>Не определено</CP_TripRomanceOutcome_pending>
+  <CP_TripRomanceOutcome_unresolved>Неопределённое завершение</CP_TripRomanceOutcome_unresolved>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_MeisterTeacherLabel>Учитель-подмастерье</CP_MeisterTeacherLabel>
+  <CP_StudentToCommuter>Переход в приходящий ученик</CP_StudentToCommuter>
+  <CP_StudentToResident>Переход в ученика с проживанием</CP_StudentToResident>
+  <CP_StudentModeAllyRequired>Для перехода на статус ученика с проживанием необходимо, чтобы родная сила и союз ученика были совпадающими.</CP_StudentModeAllyRequired>
+  <CP_StudentModeConfirm>Медленно переключить {0} в режим {1}? Стоимость академии в этом квартале остаётся прежней, а с нового квартала применяется новая стоимость. Дополнительные платежи или возвраты не предусмотрены, срок обучения и предыдущие обязательства сохраняются.</CP_StudentModeConfirm>
+  <CP_StudentModeFailed>Не удалось переключиться. Проверьте союзные отношения и статус регистрации ученика.</CP_StudentModeFailed>
+  <CP_StudentModeChanged>{0}: Переключение на {1} · Стоимость обучения изменится с следующего квартала</CP_StudentModeChanged>
+</LanguageData>

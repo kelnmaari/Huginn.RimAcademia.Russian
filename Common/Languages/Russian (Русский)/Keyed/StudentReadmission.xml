@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_ReturnStudentTitle>Обучать старого ученика снова?</CP_ReturnStudentTitle>
+  <CP_ReturnStudentText>Альянс {1} прекратил конфликт. Позволит ли нам вернуть {0} в качестве ученика? 
+ 
+ При принятии решения образование будет восстановлено по методу {2}. Дети нейтральных сил возвращаются как приходящие ученики. Технологии, отношения и личные политики остаются без изменений, а расходы академии на период конфликта не пересчитываются.</CP_ReturnStudentText>
+  <CP_ReturnStudentAccept>Повторить обучение</CP_ReturnStudentAccept>
+  <CP_ReturnStudentDecline>Не принимать</CP_ReturnStudentDecline>
+  <CP_ReturnStudentNotReady>Проверьте все помещения администрации академии. Если ученики ещё перемещаются, находятся в другом районе или сила вновь враждебна, их нельзя вернуть сейчас.</CP_ReturnStudentNotReady>
+  <CP_ReturnStudentResumed>Начинается образование {0}. Продолжаются записи старых учеников.</CP_ReturnStudentResumed>
+  <CP_TransportDlcRequired>Для поездок на уроки необходимы Royalty или Odyssey.</CP_TransportDlcRequired>
+  <CP_FootStayOvernight>{0} не может найти путь домой и сегодня спит в поселении.</CP_FootStayOvernight>
+  <CP_ChildrenWalkingArrival>День детей объявлен! Дети из разных групп приходят пешком.</CP_ChildrenWalkingArrival>
+  <CP_ParentsWalkingHome>Спортивный праздник завершён. Приглашённые родители идут домой пешком.</CP_ParentsWalkingHome>
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_StudiedWithChildhoodFriend.stages.0.label>Учусь вместе с другом детства</CP_StudiedWithChildhoodFriend.stages.0.label>
+  <CP_StudiedWithChildhoodFriend.stages.0.description>Учился вместе с ценным другом детства в одном помещении</CP_StudiedWithChildhoodFriend.stages.0.description>
+  <CP_SportsFirstPrize.stages.0.label>Приз за 1-е место</CP_SportsFirstPrize.stages.0.label>
+  <CP_SportsFirstPrize.stages.0.description>Первое место на спортивном празднике! Награду вручили на глазах у всех.</CP_SportsFirstPrize.stages.0.description>
+  <CP_NoChildren.stages.0.label>Без детей — пусто</CP_NoChildren.stages.0.label>
+  <CP_NoChildren.stages.0.description>В этом поселении не слышно смеха детей</CP_NoChildren.stages.0.description>
+  <CP_HungryChild.stages.0.label>Дети, голодные</CP_HungryChild.stages.0.label>
+  <CP_HungryChild.stages.0.description>Дети, находящиеся под нашим покровом, голодают. Это нельзя допускать.</CP_HungryChild.stages.0.description>
+  <CP_UnclothedChild.stages.0.label>Дети без одежды</CP_UnclothedChild.stages.0.label>
+  <CP_UnclothedChild.stages.0.description>Не смог найти одежду для ребёнка.</CP_UnclothedChild.stages.0.description>
+  <CP_Undereducated.stages.0.label>Дети, не получившие образования</CP_Undereducated.stages.0.label>
+  <CP_Undereducated.stages.0.description>Детям необходимы достаточные возможности для обучения.</CP_Undereducated.stages.0.description>
+  <CP_Educated.stages.0.label>Дети, хорошо усваивающие знания</CP_Educated.stages.0.label>
+  <CP_Educated.stages.0.description>Дети поддерживали уровень обучения выше 80%.</CP_Educated.stages.0.description>
+  <CP_UnsafeTemperature.stages.0.label>Дети, подвергшиеся воздействию жары и холода</CP_UnsafeTemperature.stages.0.label>
+  <CP_UnsafeTemperature.stages.0.description>Дети в возрасте от 1 до 12 лет должны находиться в безопасной и комфортной температуре.</CP_UnsafeTemperature.stages.0.description>
+  <CP_GoodClothes.stages.0.label>Одежда, соответствующая температуре</CP_GoodClothes.stages.0.label>
+  <CP_GoodClothes.stages.0.description>Покрываю ребёнка подходящей одеждой в зависимости от температуры, чтобы он чувствовал себя комфортно.</CP_GoodClothes.stages.0.description>
+  <CP_GrowthVat.stages.0.label>Использование прибора для роста</CP_GrowthVat.stages.0.label>
+  <CP_GrowthVat.stages.0.description>Развитие ребёнка не должно передаваться машине.</CP_GrowthVat.stages.0.description>
+  <CP_BadChildFood.stages.0.label>Кормлю детей индивидуальными продуктами</CP_BadChildFood.stages.0.label>
+  <CP_BadChildFood.stages.0.description>Приучил ребёнка к еде.</CP_BadChildFood.stages.0.description>
+  <CP_BadCeremony.stages.0.label>недостаточный день рождения</CP_BadCeremony.stages.0.label>
+  <CP_BadCeremony.stages.0.description>Мероприятие в особенный день не соответствует ожиданиям.</CP_BadCeremony.stages.0.description>
+  <CP_GoodCeremony.stages.0.label>значимый день рождения</CP_GoodCeremony.stages.0.label>
+  <CP_GoodCeremony.stages.0.description>Поздравили вместе с моментом роста.</CP_GoodCeremony.stages.0.description>
+  <CP_OverworkedSchedule.stages.0.label>Навязанная учебная программа детям</CP_OverworkedSchedule.stages.0.label>
+  <CP_OverworkedSchedule.stages.0.description>Расписание ребёнка должно быть заполнено развлечениями и сном.</CP_OverworkedSchedule.stages.0.description>
+  <CP_BadChildFood.stages.1.label>Питание детям — суп из продуктов</CP_BadChildFood.stages.1.label>
+  <CP_BadChildFood.stages.1.description>Хочу правильно приготовить пищу для ребёнка</CP_BadChildFood.stages.1.description>
+</LanguageData>

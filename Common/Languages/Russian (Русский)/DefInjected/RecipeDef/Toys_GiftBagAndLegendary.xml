@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RAT_MakeToyGiftBag.label>Сбор подарочных коробок с игрушками</RAT_MakeToyGiftBag.label>
+  <RAT_MakeToyGiftBag.description>Создаётся пустой подарочный ящик с игрушками. Установите готовую игрушку и доставьте игрушки в него.</RAT_MakeToyGiftBag.description>
+  <RAT_MakeToyGiftBag.jobString>Создаю подарочную коробку с игрушками.</RAT_MakeToyGiftBag.jobString>
+</LanguageData>

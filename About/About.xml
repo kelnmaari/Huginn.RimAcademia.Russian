@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Rim Academia — русский перевод</name>
+  <author>Huginn</author>
+  <packageId>huginn.codex.childprotection</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>codex.childprotection</packageId>
+      <displayName>Rim Academia</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3827963827</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>codex.childprotection</li>
+  </loadAfter>
+  <description>Русский перевод Rim Academia 3.1.4 с корейского. Школьная жизнь, уроки, экскурсии, праздники и взросление колонистов. Перевод выполнен с помощью ИИ и выборочно вычитан.
+
+Требуется оригинальный мод. Загружайте русификатор после него.
+https://steamcommunity.com/sharedfiles/filedetails/?id=3827963827</description>
+</ModMetaData>

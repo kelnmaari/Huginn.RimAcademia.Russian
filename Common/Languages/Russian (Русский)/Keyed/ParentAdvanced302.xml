@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_ParentTitleLegendaryArt>Работа, оставшаяся в истории</CP_ParentTitleLegendaryArt>
+  <CP_ParentTitleLegendaryChildwear>Лучшая одежда для ребёнка</CP_ParentTitleLegendaryChildwear>
+  <CP_ParentTitleLegendaryChair>Рука, создающая трон</CP_ParentTitleLegendaryChair>
+  <CP_ParentTitlePsycast>Развивать внутреннюю силу</CP_ParentTitlePsycast>
+  <CP_ParentTitleThrumboTame>Великий друг</CP_ParentTitleThrumboTame>
+  <CP_ParentTitleRequestedTrait>Рост, которого хотят родители</CP_ParentTitleRequestedTrait>
+  <CP_ParentTitleSkillTwenty>Вершина в одной области</CP_ParentTitleSkillTwenty>
+  <CP_ParentTitleArchiteGenes>Будущее, вписанное в генетику</CP_ParentTitleArchiteGenes>
+  <CP_ParentTitleArchotechParts>Новый телосложение сверху</CP_ParentTitleArchotechParts>
+  <CP_ParentObjectiveLegendaryArt>Создать 1 монумента эпохи легенд, размер не важен</CP_ParentObjectiveLegendaryArt>
+  <CP_ParentObjectiveLegendaryChildwear>Создание 1 костюма для детей эпического качества</CP_ParentObjectiveLegendaryChildwear>
+  <CP_ParentObjectiveLegendaryChair>Создание или строительство 1 стула эпического качества</CP_ParentObjectiveLegendaryChair>
+  <CP_ParentObjectiveThrumboTame>Прямое содержание 1 трумбо или альпартрумбо</CP_ParentObjectiveThrumboTame>
+  <CP_ParentObjectiveRequestedTrait>Получено желание родителей получить характеристику: {0}</CP_ParentObjectiveRequestedTrait>
+  <CP_ParentObjectiveSkillTwenty>Достижение уровня 20 навыка, запрошенного родителями: {0}</CP_ParentObjectiveSkillTwenty>
+  <CP_ParentObjectiveArchiteGenes>Собственность более 4 различных превосходящих генов, включая врождённые гены</CP_ParentObjectiveArchiteGenes>
+  <CP_ParentObjectiveArchotechParts>Установить архотехнические импланты как минимум в 2 разные части тела.</CP_ParentObjectiveArchotechParts>
+  <CP_ParentStateGoalHelp>При достижении требуемого состояния в срок завершается. Не ограничивайте способы получения технологий, характеристик или модификации тела.</CP_ParentStateGoalHelp>
+  <CP_UnhealthySurgeryClaim>{0}: Несанкционированный медицинский хирургический вмешательство ({1}) · требование компенсации 5 000</CP_UnhealthySurgeryClaim>
+</LanguageData>

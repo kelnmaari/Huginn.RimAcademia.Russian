@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_ParentalCheer.label>Поддержка от родителей</CP_ParentalCheer.label>
+  <CP_ParentalCheer.description>В день спортивного праздника скорость передвижения ребёнка увеличивается на 1% за каждый уровень навыка «Общение» родителя на той же карте, до 20%. Эффект исчезает, когда родитель покидает карту или наступает полночь. Место зрителя и завершение забега на эффект не влияют.</CP_ParentalCheer.description>
+</LanguageData>

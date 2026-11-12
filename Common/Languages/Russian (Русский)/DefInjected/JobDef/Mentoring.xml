@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_MentorObserve.label>Наблюдение за работой наставника</CP_MentorObserve.label>
+  <CP_MentorObserve.reportString>Наблюдаю за работой TargetA.</CP_MentorObserve.reportString>
+  <CP_MentorCoach.label>Завершение предыдущей работы наставника</CP_MentorCoach.label>
+  <CP_MentorCoach.reportString>Завершаю предыдущую работу наставника.</CP_MentorCoach.reportString>
+</LanguageData>

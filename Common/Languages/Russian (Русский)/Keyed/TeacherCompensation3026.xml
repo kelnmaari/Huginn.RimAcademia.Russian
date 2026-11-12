@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_TeacherCompensationPolicy>Компенсации за приглашённых учителей: за шрамы платить не нужно, за потерю части тела — 3 000 ед. серебра, за смерть — 5 000. Оплатите в течение 7 дней после выставления требования. При просрочке фракция станет враждебной, а через 6 часов начнётся ответный рейд обычного масштаба: 100% (×1).</CP_TeacherCompensationPolicy>
+  <CP_TeacherCompensationClaimTitle>Требуется оплата за вознаграждение учителя</CP_TeacherCompensationClaimTitle>
+  <CP_TeacherCompensationClaimText>Учитель: {0} причина: 
+ этот запрос: {1} 
+ текущая сумма неоплаченных: {2} 
+ оставшийся срок оплаты: {3} дней 
+ {4} 
+ 
+ Оплата производится в разделе «Администрация академии → Учителя → Расписание → Компенсация ущерба для внешних учителей». 
+ 
+ &lt;color=#ff6666&gt; Если не оплачивать в срок, возникает вражда с этой силой, и через 6 часов наступает атака в размере 100% (1 раз) от базового уровня. &lt;/color&gt;</CP_TeacherCompensationClaimText>
+  <CP_TeacherCompensationPartLoss>Потеря части тела: {0}</CP_TeacherCompensationPartLoss>
+  <CP_TeacherCompensationDeath>Компенсация за смерть учителя</CP_TeacherCompensationDeath>
+  <CP_TeacherCompensationReminderTitle>Срок оплаты за преподавателя приближается</CP_TeacherCompensationReminderTitle>
+  <CP_TeacherCompensationReminderText>Компенсация за {0} в размере {1} ед. серебра ещё не выплачена.
+
+&lt;color=#ff6666&gt;До срока оплаты осталось меньше суток. При просрочке фракция станет враждебной, а через 6 часов начнётся ответный рейд обычного масштаба: 100% (×1).&lt;/color&gt;
+
+Оплатить можно в меню «Академия → Учителя и расписание → Компенсации приглашённым учителям».</CP_TeacherCompensationReminderText>
+  <CP_TeacherCompensationDefaultTitle>Неоплачено вознаграждение учителя — запланирована мести</CP_TeacherCompensationDefaultTitle>
+  <CP_TeacherCompensationDefaultText>Срок уплаты компенсации за {0} истек. {1} — 
+ 
+ {2} враждуют с силой, и через 6 часов приходит нападение в размере 100% (1x) базового уровня.</CP_TeacherCompensationDefaultText>
+  <CP_TeacherCompensationMigrationTitle>Изменение правила оплаты учителей — отмена штрафа за неплатежи</CP_TeacherCompensationMigrationTitle>
+  <CP_TeacherCompensationMigrationText>Доходы по учителям, не оплаченные ранее, {0} были отменены, а запись о предыдущем взыскании {1} была отменена. 
+
+ Теперь нет компенсации за повреждения, потеря тела — 3000 серебряных монет за часть тела, смерть — 5000 серебряных монет. Срок оплаты — 7 дней, неоплата приводит к взысканию в размере 100% (1 раз) от базового уровня. 
+
+ Начатые атаки и отношения между силами автоматически не отменяются.</CP_TeacherCompensationMigrationText>
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_Teach.label>Обучение в процессе</CP_Teach.label>
+  <CP_Teach.reportString>Уроки для детей</CP_Teach.reportString>
+  <CP_Study.label>Слушать уроки</CP_Study.label>
+  <CP_Study.reportString>Слушаю урок в классе.</CP_Study.reportString>
+  <CP_EventWait.label>Участие в праздновании дня рождения</CP_EventWait.label>
+  <CP_EventWait.reportString>Участвую в праздновании дня рождения.</CP_EventWait.reportString>
+  <CP_ReturnToShuttle.label>Прибытие на шаттл с возвратом</CP_ReturnToShuttle.label>
+  <CP_ReturnToShuttle.reportString>Возвращаюсь на возвращающийся шаттл.</CP_ReturnToShuttle.reportString>
+  <CP_RecordLecture.label>Запись онлайн-лекций</CP_RecordLecture.label>
+  <CP_RecordLecture.reportString>Записываю онлайн-лекцию.</CP_RecordLecture.reportString>
+  <CP_WatchLecture.label>Смотреть лекции</CP_WatchLecture.label>
+  <CP_WatchLecture.reportString>Смотрю записанное занятие.</CP_WatchLecture.reportString>
+  <CP_InsertLecture.label>Перевозка записей лекций</CP_InsertLecture.label>
+  <CP_InsertLecture.reportString>Передаёт записанные лекции на телевизор.</CP_InsertLecture.reportString>
+  <CP_FieldExperience.label>Опыт школьной экскурсии по математике</CP_FieldExperience.label>
+  <CP_FieldExperience.reportString>Участвую в местных мероприятиях во время школьной экскурсии.</CP_FieldExperience.reportString>
+  <CP_SportsHost.label>Организация спортивного праздника</CP_SportsHost.label>
+  <CP_SportsHost.reportString>Вручает приз за 1-е место на спортивном празднике.</CP_SportsHost.reportString>
+  <CP_SportsAward.label>Награждение на спортивном празднике</CP_SportsAward.label>
+  <CP_SportsAward.reportString>Получает у ведущего приз за 1-е место.</CP_SportsAward.reportString>
+  <CP_SportsGather.label>Сбор на стартовой линии соревнования</CP_SportsGather.label>
+  <CP_SportsGather.reportString>Ожидаем на старте спортивного праздника.</CP_SportsGather.reportString>
+  <CP_SportsRace.label>Бег по препятствиям</CP_SportsRace.label>
+  <CP_SportsRace.reportString>Участвую в соревновании по преодолению препятствий на спортивной встрече.</CP_SportsRace.reportString>
+  <CP_SportsWatch.label>Поддержка на спортивном празднике</CP_SportsWatch.label>
+  <CP_SportsWatch.reportString>Наблюдаю и поддерживаю спортивный праздник.</CP_SportsWatch.reportString>
+</LanguageData>

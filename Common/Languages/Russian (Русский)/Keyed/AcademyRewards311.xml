@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_AcademyTabLocked311 xml:space="preserve">Постройте администрацию академии, чтобы использовать набор учеников и общее управление академией. Сейчас можно использовать мероприятие по росту колонистов.</CP_AcademyTabLocked311>
+  <CP_LegendaryToyDraw311 xml:space="preserve">Извлечение легендарной игрушки · 10 очков</CP_LegendaryToyDraw311>
+  <CP_LegendaryToyDrawDesc311 xml:space="preserve">За 10 очков развития основной идеологии случайно выдаётся 1 легендарная игрушка. Без Odyssey телескоп не выпадает. Очки развития: {0}</CP_LegendaryToyDrawDesc311>
+  <CP_LegendaryToyBought311 xml:space="preserve">Покупка легендарного игрушки: {0} · Уменьшение баллов по основной идеологии на 10</CP_LegendaryToyBought311>
+</LanguageData>

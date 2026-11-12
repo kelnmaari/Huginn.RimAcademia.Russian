@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_ParentSkillDemand.questNameRules.rulesStrings.0>questName-&gt;Просьба родителей: обучить [studentName] навыку «[skillName]»</CP_ParentSkillDemand.questNameRules.rulesStrings.0>
+  <CP_ParentSkillDemand.questDescriptionRules.rulesStrings.0>questDescription-&gt;Родители из фракции [parentFactionName] просят дать [studentName] специальную подготовку. В течение 10 дней после принятия задания поднимите навык «[skillName]» с текущего уровня [startLevelText] до [targetLevelText]. Цель непростая: подготовьте записи уроков и составьте план обучения. Просмотр уроков отдельно не проверяется: главное — достичь нужного уровня. Задание провалится, если ученик покинет академию, вступит в вашу колонию, погибнет или его фракция станет враждебной.</CP_ParentSkillDemand.questDescriptionRules.rulesStrings.0>
+  <CP_ParentActivityDemand.questNameRules.rulesStrings.0>questName-&gt;Задание родителей для [studentName]: [activityTitle]</CP_ParentActivityDemand.questNameRules.rulesStrings.0>
+  <CP_ParentActivityDemand.questDescriptionRules.rulesStrings.0>questDescription-&gt;Родители из фракции [parentFactionName] предложили практическое задание для [studentName]. В течение 10 дней после принятия задания ученик должен выполнить его самостоятельно. Точные условия и прогресс показаны ниже. Навыки можно освоить в ходе задания. Задание провалится, если ученик покинет академию, погибнет или его фракция станет враждебной.</CP_ParentActivityDemand.questDescriptionRules.rulesStrings.0>
+</LanguageData>

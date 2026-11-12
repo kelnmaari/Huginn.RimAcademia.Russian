@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_TripHotSpringBlessing.degreeDatas.0.label>Гармония в бассейне</CP_TripHotSpringBlessing.degreeDatas.0.label>
+  <CP_TripHotSpringBlessing.degreeDatas.0.description>Тепло от бани, которое было на школьной экскурсии, остаётся в теле. Скорость восстановления после травм увеличивается на 20%. Эта характеристика даётся только после школьной экскурсии.</CP_TripHotSpringBlessing.degreeDatas.0.description>
+  <CP_TripAncientBond.degreeDatas.0.label>Сближение с древними видами</CP_TripAncientBond.degreeDatas.0.label>
+  <CP_TripAncientBond.degreeDatas.0.description>На школьной экскурсии мы обменивались знаниями о древних живых существах и чувствах. За каждое животное, живущее на том же карте, и за каждого домашнего питомца снижается урон и страдание на 2%, достигая максимума 30% при 15 животных. Эффект не действует, если животное отсутствует или находится вне карты. Эта характеристика приобретается только в ходе школьной экскурсии.</CP_TripAncientBond.degreeDatas.0.description>
+  <CP_TripWinterDream.degreeDatas.0.label>Сон зимой</CP_TripWinterDream.degreeDatas.0.label>
+  <CP_TripWinterDream.degreeDatas.0.description>Орора, которую они увидели на школьной экскурсии, светится глубоко в душе. С 50% вероятностью сразу возвращается в сознание и получает вдохновение при начале психоза. Это свойство можно получить только на школьной экскурсии.</CP_TripWinterDream.degreeDatas.0.description>
+</LanguageData>

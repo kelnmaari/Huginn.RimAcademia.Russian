@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_FineSchoolLunch.label>Хорошее питание</CP_FineSchoolLunch.label>
+  <CP_FineSchoolLunch.description>Питание, приготовленное с любовью и уровнем кулинарии 15 и выше, приготовленное диетологом. Благодаря тщательному соблюдению гигиены, в пище не обнаруживаются бактерии, вызывающие пищевое отравление. Однако пища должна быть утилизирована уже через день при комнатной температуре.</CP_FineSchoolLunch.description>
+  <CP_ChocolateCandy.label>Шоколадный конфета</CP_ChocolateCandy.label>
+  <CP_ChocolateCandy.description>Небольшое угощение из шоколада и фруктов. Питательность: 0,1. У ребёнка до 19:00 сегодняшнего дня скорость передвижения и скорость заполнения шкалы обучения возрастают в 1,1 раза. На скорость передвижения взрослых конфета не влияет.</CP_ChocolateCandy.description>
+  <CP_PicnicLunch.label>Пикник-обед</CP_PicnicLunch.label>
+  <CP_PicnicLunch.description>Полуфабрикат для похода, который дети покупают. Если у кого-то не хватает доли, друзья не возьмут обед. Сядьте на ковёр и вместе поедите.</CP_PicnicLunch.description>
+  <CP_PicnicMat.label>Пикник-диван</CP_PicnicMat.label>
+  <CP_PicnicMat.description>Положение одеяла, раскрытого на время, пока участники ели городские ланчи.</CP_PicnicMat.description>
+</LanguageData>

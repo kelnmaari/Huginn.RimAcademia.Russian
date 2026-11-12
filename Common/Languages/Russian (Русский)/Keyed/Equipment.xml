@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RAS_InvalidEquipment>Механизм уже зарегистрирован или маршрут заблокирован. Выберите механизм и проверьте маршрут.</RAS_InvalidEquipment>
+  <RAS_BlockedCourse>Маршрут спортивного праздника заблокирован. Выберите ячейку, где отображается, и освободите вход и выход.</RAS_BlockedCourse>
+  <RAS_Direction>Направление развития</RAS_Direction>
+  <RAS_Register>Зарегистрируйтесь в порядке прохождения на месте спортивного праздника.</RAS_Register>
+  <RAS_Pop>ПОН!</RAS_Pop>
+  <RAS_ChocolateStored>Содержимое: шоколад {0}/{1}</RAS_ChocolateStored>
+  <RAS_FillGourd>Запрос на наполнение шоколадом</RAS_FillGourd>
+  <RAS_FillEmptyGourd>Подготовка в пустом помещении</RAS_FillEmptyGourd>
+  <RAS_FillGourdDesc>Подготовьте 5 деревьев Rim для упаковки и реально возьмите {0} шоколадных батончиков, чтобы заполнить их. В уже подготовленные пустые упаковки добавляются только шоколадные батончики. Также можно использовать материалы вне склада, при этом при соревнованиях транспортировка прекращается.</RAS_FillGourdDesc>
+  <RAS_NoChocolate>Не хватает запасных материалов для подготовки к поездке.</RAS_NoChocolate>
+  <RAS_CannotFill>После окончания соревнования можно будет заполнить материалы.</RAS_CannotFill>
+  <RAS_Ready>Подготовка к поездке</RAS_Ready>
+  <RAS_Empty>Необходимо подготовить пакет · дерево 5</RAS_Empty>
+  <RAS_North>Север</RAS_North>
+  <RAS_East>Восток</RAS_East>
+  <RAS_South>Юг</RAS_South>
+  <RAS_West>Запад</RAS_West>
+  <RAS_FillEmptyDesc>Рим, способный к транспортировке, готовит пустой батон из 5 деревьев. Шоколад, который уже был в батоне, не удаляется.</RAS_FillEmptyDesc>
+  <RAS_WoodStored>Ингредиенты для пакета: дерево {0}/{1}</RAS_WoodStored>
+  <RAS_AutoRefill>Автоматическая доставка материалов</RAS_AutoRefill>
+  <RAS_AutoRefillDesc>Рим, способный к транспортировке, забирает необходимое дерево и шоколад. Ресурсы, которые были уже помещены, сохраняются.</RAS_AutoRefillDesc>
+  <RAS_AutoChocolate>Автоматическая доставка в ожидании · включает шоколад</RAS_AutoChocolate>
+  <RAS_AutoEmpty>Автоматическая доставка, ожидание пустого бака</RAS_AutoEmpty>
+  <RAS_AutoPaused>Автоматическая доставка материалов отключена</RAS_AutoPaused>
+  <RAS_DevFill>DEV: Пак немедленно заполнить</RAS_DevFill>
+  <RAS_DevFillDesc>Для разработчиков. Готовит сразу 10 новых батонов и шоколада без расхода ресурсов и транспортировки.</RAS_DevFillDesc>
+  <RAS_Play>Игра с механизмами · тренировка по борьбе</RAS_Play>
+</LanguageData>

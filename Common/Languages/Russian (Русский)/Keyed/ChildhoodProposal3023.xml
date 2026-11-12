@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_ChildhoodRepairCommand>Восстановление дружбы с другом детства</CP_ChildhoodRepairCommand>
+  <CP_ChildhoodRepairHelp>Инструмент для восстановления отношений с другом детства, уничтоженных из-за недавнего бага.</CP_ChildhoodRepairHelp>
+  <CP_ChildhoodRepairNone>Нет объектов, которые можно восстановить.</CP_ChildhoodRepairNone>
+  <CP_ChildhoodRestored>{0} · {1}: восстановлена дружба детства.</CP_ChildhoodRestored>
+  <CP_ChildhoodRepairConfirm>{0} и {1} — это оригинальные други детства, разорванные из-за бага? 
+. Подтверждение восстановит отношения друга детства между двумя Римами.</CP_ChildhoodRepairConfirm>
+  <CP_ChildhoodRepairFailed>В текущих условиях невозможно восстановить эту связь.</CP_ChildhoodRepairFailed>
+  <CP_ChildhoodRepairFirst>Выберите первого из восстановляемых детей.</CP_ChildhoodRepairFirst>
+  <CP_ChildhoodRepairSecond>Выберите первоначального друга детства.</CP_ChildhoodRepairSecond>
+  <CP_ChildhoodRepairFromLetters>Найден кандидат на восстановление из уведомления о помолвке</CP_ChildhoodRepairFromLetters>
+  <CP_ChildhoodRepairNoLetters>Отсутствует уведомление о восстановлении брака.</CP_ChildhoodRepairNoLetters>
+  <CP_ChildhoodRepairManual>Прямое восстановление двух Римов</CP_ChildhoodRepairManual>
+</LanguageData>

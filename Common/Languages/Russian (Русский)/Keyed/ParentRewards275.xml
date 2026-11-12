@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_ParentThankYouLabel>Спасибо, подарок</CP_ParentThankYouLabel>
+  <CP_ParentThankYouDelivery>Родители прислали обучающий нейротренер для навыка из практического задания, 100 ед. золота и подарок в знак благодарности. Колонисты могут пользоваться всем этим свободно.</CP_ParentThankYouDelivery>
+  <CP_ParentMissionRewardsHelp>Задание на 1 звезду даёт 1 нейротренер для нужного навыка, 100 ед. золота и 1 игрушку качества «отлично» или выше (10% шанс получить легендарную). Задание на 3 звезды гарантированно добавляет к обычной награде 1 легендарную игрушку. Вид игрушки определяется случайно при завершении. Это касается и ранее взятых, но ещё не завершённых заданий.</CP_ParentMissionRewardsHelp>
+  <CP_ParentMysteryToy>Игрушка ? · гарантированно 1 штука выше совершенства / вероятность легендарной версии 10% (при получении — розыгрыш)</CP_ParentMysteryToy>
+  <CP_ParentMysteryToyReceived>Полученный подарок: {0}</CP_ParentMysteryToyReceived>
+  <CP_ParentMysteryToyShort>? · легенда 10%</CP_ParentMysteryToyShort>
+  <CP_ParentLegendaryToy>Игрушка ? · вероятность легендарной версии 100% / 1 штука гарантирована (после завершения — розыгрыш)</CP_ParentLegendaryToy>
+  <CP_ParentLegendaryToyShort>? · Легенда 100%</CP_ParentLegendaryToyShort>
+  <CP_ParentLegendaryGiftLabel>Особенный подарок благодарности родителям</CP_ParentLegendaryGiftLabel>
+  <CP_ParentLegendaryGiftDelivery>В награду за сложное задание родителей дополнительно доставили одну легендарную игрушку.</CP_ParentLegendaryGiftDelivery>
+</LanguageData>

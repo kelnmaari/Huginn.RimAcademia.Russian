@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_ChildDrugsTab>Лекарство</CP_ChildDrugsTab>
+  <CP_ChildDrugsIntro>Каждый ученик выбирает политику использования лекарств. Также можно настроить политику для учеников, которые находятся в отпуске, и эти настройки сохраняются при возвращении, при сохранении и восстановлении, а также при прямом изменении в стандартной системе управления лекарствами.</CP_ChildDrugsIntro>
+  <CP_ChildDrugsPolicy>Политика лекарств для детей: {0}</CP_ChildDrugsPolicy>
+  <CP_ChildDrugsEdit>Редактирование политики лекарств</CP_ChildDrugsEdit>
+  <CP_ChildDrugsApply>Применяется к детям и ученикам сейчас</CP_ChildDrugsApply>
+  <CP_ChildDrugsReset>Основные политики</CP_ChildDrugsReset>
+</LanguageData>

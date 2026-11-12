@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_CookFineSchoolLunch.label>Приготовление: хороший обед</CP_CookFineSchoolLunch.label>
+  <CP_CookFineSchoolLunch.description>Приготовление пищи: приготовил хороший обед.</CP_CookFineSchoolLunch.description>
+  <CP_CookFineSchoolLunch.jobString>Приготовление пищи: готовлю хороший обед.</CP_CookFineSchoolLunch.jobString>
+  <CP_CookPicnicLunch.label>Приготовление: десерт для похода</CP_CookPicnicLunch.label>
+  <CP_CookPicnicLunch.description>Приготовление: обед для похода.</CP_CookPicnicLunch.description>
+  <CP_CookPicnicLunch.jobString>Приготовление: обед для похода.</CP_CookPicnicLunch.jobString>
+  <CP_MakeChocolateCandy.label>Приготовление: шоколадный конфеты</CP_MakeChocolateCandy.label>
+  <CP_MakeChocolateCandy.description>Создаю шоколадный конфеты из 4 шоколадок и 1 фрукта (клубники).</CP_MakeChocolateCandy.description>
+  <CP_MakeChocolateCandy.jobString>Изготавливаю шоколадные конфеты.</CP_MakeChocolateCandy.jobString>
+</LanguageData>

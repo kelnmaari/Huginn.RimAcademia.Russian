@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RAT_MakeRandomToy.label>Создание игрушек</RAT_MakeRandomToy.label>
+  <RAT_MakeRandomToy.description>Создайте случайный игрушку из 10 деревьев, 10 тканей, 10 стальных деталей и 1 компонента. Качество будет соответствовать уровню мастерства, вероятность создания легендарной игрушки всегда составляет 1%.</RAT_MakeRandomToy.description>
+  <RAT_MakeRandomToy.jobString>Создаю игрушки.</RAT_MakeRandomToy.jobString>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_TutorTeach.label>Индивидуальное руководство по занятиям 1:1</CP_TutorTeach.label>
+  <CP_TutorTeach.reportString>Производится индивидуальное обучение для TargetA.</CP_TutorTeach.reportString>
+  <CP_TutorStudy.label>1:1 индивидуальное занятие</CP_TutorStudy.label>
+  <CP_TutorStudy.reportString>Получаю дополнительные занятия у TargetB.</CP_TutorStudy.reportString>
+</LanguageData>

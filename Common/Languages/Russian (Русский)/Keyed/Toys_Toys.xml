@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RAT_GiftToys>Предоставление игрушек</RAT_GiftToys>
+  <RAT_ChildrenOnly>Можно носить только детей от 3 до 12 лет.</RAT_ChildrenOnly>
+  <RAT_GiftRecord>Подарок детских игрушек на День детей</RAT_GiftRecord>
+  <RAT_DonationValue>Стоимость пожертвования 200</RAT_DonationValue>
+  <RAT_CannotGift>Сейчас нельзя предоставить этот игрушку.</RAT_CannotGift>
+  <RAT_NoStoredToys>В складе или полках нет игрушек для пожертвования.</RAT_NoStoredToys>
+  <RAT_CannotPlay>Требуется взрослый колонист, находящийся на карте, где есть ребенок с игрушкой.</RAT_CannotPlay>
+  <RAT_RequiresOdyssey>Требуется Odyssey</RAT_RequiresOdyssey>
+  <RAT_AdultBusy>Сейчас сложно вместе играть.</RAT_AdultBusy>
+  <RAT_CannotReach>Невозможно подойти к взрослому.</RAT_CannotReach>
+  <RAT_AskPlay>Попросить поиграть · 2 часа</RAT_AskPlay>
+  <RAT_InspirationLabel>Вспомнил о дружбе, вспыхнул энтузиазм</RAT_InspirationLabel>
+  <RAT_TelescopeReward>Прибыли 100 панелей противовеса и 1 ядра гравитации как подарок от учащихся, которые были с легендарным телескопом.</RAT_TelescopeReward>
+  <RAT_SelfService>Самостоятельное получение детям</RAT_SelfService>
+  <RAT_SelfServiceDesc>В День детей дети без подарков автоматически извлекают из сумок игрушки и надевают их. Игрушки в полках и обычных складах автоматически не собираются. За каждое получение дети вносят донат в размере 200 серебра, и когда посетитель уходит, игрушки, которые он взял, считаются использованными в доме.</RAT_SelfServiceDesc>
+  <RAT_BagCount>Склад игрушек: {0}/{1}</RAT_BagCount>
+  <RAT_ContentsTab>Содержание</RAT_ContentsTab>
+  <RAT_MihoBeauty>Самостоятельная эстетика фигурки Михо</RAT_MihoBeauty>
+</LanguageData>

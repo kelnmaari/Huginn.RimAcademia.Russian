@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_Text_e069a41ef204 xml:space="preserve">День детей</CP_Text_e069a41ef204>
+  <CP_Text_59a2c0f390f3 xml:space="preserve">День детей объявлен! Дети из разных групп прибывают на шаттле.</CP_Text_59a2c0f390f3>
+  <CP_Text_cc86428db19d xml:space="preserve">Праздник Дня детей начался. В рамках мероприятий академии можно бесплатно предоставить детям одежду, занятия и питание.</CP_Text_cc86428db19d>
+  <CP_Text_9252078e3a5f xml:space="preserve">Опыт праздника Дня детей и приобретение черты доброты!</CP_Text_9252078e3a5f>
+  <CP_Text_37b4952385e8 xml:space="preserve">Окончание Дня детей · бесплатные одежда и занятия </CP_Text_37b4952385e8>
+  <CP_Text_6214158088fe xml:space="preserve"> · Бонус за настроение и вдохновение колонистов</CP_Text_6214158088fe>
+  <CP_Text_84e97f2c764e xml:space="preserve">День детей завершён! Получены моральные и вдохновляющие бонусы в зависимости от уровня доброты. Посетители детей уходят.</CP_Text_84e97f2c764e>
+  <CP_Text_5cdf795d960c xml:space="preserve">Подарки Дня детей</CP_Text_5cdf795d960c>
+  <CP_Text_01c1301025d5 xml:space="preserve">: Бесплатная одежда для Дня детей · стоимость </CP_Text_01c1301025d5>
+  <CP_Text_e9aa7d12b859 xml:space="preserve">: Бесплатные лекции в День детей · </CP_Text_e9aa7d12b859>
+  <CP_Text_096de8a550d8 xml:space="preserve">День детей · праздник, который мы делим вместе</CP_Text_096de8a550d8>
+  <CP_Text_2d075f7e9689 xml:space="preserve">Любой квадрум · перерыв 45 дней · одно мероприятие за квадрум
+Приедут дети из невраждебных фракций: по 1 от каждой, максимум 12
+Вечеринка длится 4 часа на обычном месте для праздников · потребность детей в обучении не снижается
+Выберите ребёнка и бесплатно предоставьте одежду, уроки или еду
+Стоимость одежды и уроков влияет на награду колонистам за настроение и вдохновение
+Шанс получить черту «Добрый» у ребёнка колонии: стоимость подарков × 1%, максимум 100%
+Приезжие дети и уже зачисленные ученики черту не получают</CP_Text_2d075f7e9689>
+  <CP_Text_2b0e9251242c xml:space="preserve">Место вечеринки: </CP_Text_2b0e9251242c>
+  <CP_Text_8379c356771f xml:space="preserve">Сначала установите существующее место для вечеринки.</CP_Text_8379c356771f>
+  <CP_Text_5521fdd16385 xml:space="preserve">В академии проходит другой мероприятие.</CP_Text_5521fdd16385>
+  <CP_Text_22818c34e44e xml:space="preserve">Нет доступных нейтральных сил для приглашения.</CP_Text_22818c34e44e>
+  <CP_Text_90281c6eda5b xml:space="preserve">После объявления Дня детей прибудет шаттл</CP_Text_90281c6eda5b>
+  <CP_Text_d7baa0708d3c xml:space="preserve">Открытие Дня детей</CP_Text_d7baa0708d3c>
+  <CP_Text_6e24f124c060 xml:space="preserve">Провести День детей? Бесплатно предоставим одежду и занятия, ограничим распространение мероприятия и используем ожидание в 45 дней.</CP_Text_6e24f124c060>
+  <CP_Text_4ccafbc45e8a xml:space="preserve">Предоставленная стоимость в День детей в прошлом: </CP_Text_4ccafbc45e8a>
+  <CP_Text_e685c25b815b xml:space="preserve">День детей проходит в другом поселении</CP_Text_e685c25b815b>
+  <CP_Text_4b265345cf51 xml:space="preserve">Ожидание прибытия детей</CP_Text_4b265345cf51>
+  <CP_Text_22d437b729e5 xml:space="preserve">Проходит вечеринка Дня детей</CP_Text_22d437b729e5>
+  <CP_Text_a1819e0892ce xml:space="preserve">Завершение мероприятия · ожидание возвращения детей.</CP_Text_a1819e0892ce>
+  <CP_Text_2c799cd040f7 xml:space="preserve">Дети-посетители </CP_Text_2c799cd040f7>
+  <CP_Text_4f9472fc1766 xml:space="preserve">Человек · бесплатная ценность предоставления </CP_Text_4f9472fc1766>
+  <CP_Text_cd311a7b61ad xml:space="preserve"> · Команда на предоставление питания </CP_Text_cd311a7b61ad>
+  <CP_Text_a60fa4e31f80 xml:space="preserve">Оставшееся время для вечеринки: </CP_Text_a60fa4e31f80>
+  <CP_Text_7df9c5b72e32 xml:space="preserve">Отмена ожидания визита</CP_Text_7df9c5b72e32>
+  <CP_Text_7de4caeb36ee xml:space="preserve">Получить награду после праздника Дня детей</CP_Text_7de4caeb36ee>
+  <CP_Text_a673e0eb7e4d xml:space="preserve">Завершить бесплатное предоставление и завершить День детей? Получим вознаграждение в зависимости от предоставленного значения и дети уйдут.</CP_Text_a673e0eb7e4d>
+  <CP_Text_527a5c347e27 xml:space="preserve">Визит детей</CP_Text_527a5c347e27>
+  <CP_Text_dbab646dbec6 xml:space="preserve">Предоставление одежды</CP_Text_dbab646dbec6>
+  <CP_Text_0892b165ef33 xml:space="preserve">Предоставление лекций</CP_Text_0892b165ef33>
+  <CP_Text_fd01cccddaa1 xml:space="preserve">Предоставление питания</CP_Text_fd01cccddaa1>
+  <CP_Text_46d31786aac3 xml:space="preserve"> · Бесплатно · Стоимость </CP_Text_46d31786aac3>
+  <CP_Text_350820e84c51 xml:space="preserve">В данный момент нельзя предоставить этот предмет.</CP_Text_350820e84c51>
+  <CP_Text_ad421bf16afa xml:space="preserve"> · Бесплатный обед</CP_Text_ad421bf16afa>
+  <CP_Text_9283e37219af xml:space="preserve">В данный момент нельзя предоставить это блюдо.</CP_Text_9283e37219af>
+  <CP_Text_7ab04836c23e xml:space="preserve">В складе или на полках нет предметов, которые можно предоставить</CP_Text_7ab04836c23e>
+  <CP_Text_884d52bae8da xml:space="preserve">Управление Днём детей</CP_Text_884d52bae8da>
+  <CP_Text_7b95af8a53c0 xml:space="preserve">Управляет объявлением Дня детей и бесплатным предоставлением для детей в академии.</CP_Text_7b95af8a53c0>
+  <CP_Text_07ed0bfcfaf9>Партия 4 часа · защита потребности в обучении 
+. Обмен одеждой и занятиями даёт вознаграждение по настроению и вдохновению 
+. Подробные правила — наведите мышь сюда.</CP_Text_07ed0bfcfaf9>
+  <CP_Text_f0f324da3a61>Дети поселения</CP_Text_f0f324da3a61>
+  <CP_Text_72ea3d64ace5>Нет</CP_Text_72ea3d64ace5>
+</LanguageData>

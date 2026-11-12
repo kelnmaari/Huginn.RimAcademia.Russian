@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_OfficeNoticeTitle xml:space="preserve">Рим Академия · инструкция по запуску</CP_OfficeNoticeTitle>
+  <CP_OfficeNoticeHeading xml:space="preserve">Сначала постройте администрацию академии!</CP_OfficeNoticeHeading>
+  <CP_OfficeNoticeBody xml:space="preserve">Без администрации академии можно провести пять мероприятий по развитию в разделе «Управление академией». Чтобы привлечь учеников и управлять академией, постройте администрацию академии.</CP_OfficeNoticeBody>
+  <CP_OfficeNoticeStep1 xml:space="preserve">С дополнением Ideology выберите в основной идеологии мем «Защита детей» (уровень 2).
+Без Ideology здание можно построить без этого мема.</CP_OfficeNoticeStep1>
+  <CP_OfficeNoticeStep2 xml:space="preserve">Постройте администрацию академии и обеспечьте питание 150 Вт.</CP_OfficeNoticeStep2>
+  <CP_OfficeNoticeStep3 xml:space="preserve">Откройте внизу вкладку «Управление академией», включите работу академии и примите учеников.</CP_OfficeNoticeStep3>
+  <CP_OfficeNoticeDismissHint xml:space="preserve">При закрытии X или подтверждении, больше не появится в сохранениях. В любое время можно открыть в настройках режима.</CP_OfficeNoticeDismissHint>
+  <CP_OfficeNoticeDismiss xml:space="preserve">Подтверждено · больше не показывать</CP_OfficeNoticeDismiss>
+  <CP_OfficeNoticeShowAgain xml:space="preserve">Повторить инструкцию по началу академии</CP_OfficeNoticeShowAgain>
+</LanguageData>

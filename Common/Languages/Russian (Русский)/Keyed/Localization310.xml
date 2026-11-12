@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_FirstBirthdayPicked310 xml:space="preserve">{0}: выбран предмет «{1}»! Получена страсть к навыку «{2}».</CP_FirstBirthdayPicked310>
+  <CP_FieldTraitGranted310 xml:space="preserve">{0} получил понимание из школьной экскурсии {1} и приобрёл характеристику '{2}'.</CP_FieldTraitGranted310>
+</LanguageData>

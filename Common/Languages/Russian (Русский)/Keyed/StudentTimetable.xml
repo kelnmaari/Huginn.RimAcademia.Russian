@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_StudentTimetableButton>Персональный расписание</CP_StudentTimetableButton>
+  <CP_StudentTimetableTitle>Расписание {0}</CP_StudentTimetableTitle>
+  <CP_StudentTimetableAuto>Автоматический</CP_StudentTimetableAuto>
+  <CP_StudentTimetableAutoHelp>Текущее автоматическое назначение: {0}</CP_StudentTimetableAutoHelp>
+  <CP_StudentTimetableExternal>Внешние уроки</CP_StudentTimetableExternal>
+  <CP_StudentTimetableExternalHelp>Прогресс: Образование. Запланированное время занятий. Урок: {0}</CP_StudentTimetableExternalHelp>
+  <CP_StudentTimetableHelp>Выберите активность, затем кликните или перетащите ячейку времени. В автономном и свободном времени можно участвовать в занятиях академии и индивидуальных занятиях. Работа будет соответствовать приоритету ученика.</CP_StudentTimetableHelp>
+</LanguageData>

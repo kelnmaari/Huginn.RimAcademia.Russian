@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CP_SnackLearning.label>Повышение концентрации при перекусе</CP_SnackLearning.label>
+  <CP_SnackLearning.description>Перекус увеличивает скорость заполнения шкалы обучения в 1,1 раза до 19:00 сегодняшнего дня.</CP_SnackLearning.description>
+  <CP_CandyEnergy.label>Остаётся энергия от конфет</CP_CandyEnergy.label>
+  <CP_CandyEnergy.description>Шоколадная конфета увеличивает скорость передвижения ребёнка в 1,1 раза до 19:00 сегодняшнего дня.</CP_CandyEnergy.description>
+</LanguageData>
